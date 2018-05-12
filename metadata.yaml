@@ -1,6 +1,9 @@
 _repo: The-Man-Who-Laughs--13-A-Romance-of-English-History_12587
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: L'homme qui rit. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hugo, Victor
@@ -17,6 +20,8 @@ description: "The Man Who Laughs (also published under the title By Order of the
   \ adapted for the 2012 French film L'Homme Qui Rit, directed by Jean-Pierre Améris\
   \ and starring Gérard Depardieu, Marc-André Grondin and Christa Theret.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12587#The-Man-Who-Laughs--13-A-Romance-of-English-History
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
